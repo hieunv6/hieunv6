@@ -38,8 +38,8 @@
 
 ## 📫 How to reach me
 - 🌐 **GitHub**: https://github.com/hieunv6  
-- 💼 **LinkedIn**: *your LinkedIn link here*  
-- ✉️ Email: *your email here*
+- 💼 **LinkedIn**: https://www.linkedin.com/in/hieu-nguyen-044aaa201
+- ✉️ Email: nguyenhieu17011@gmail.com
 
 ---
 
